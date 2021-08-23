@@ -1,4 +1,4 @@
-#Progra{m}aria - Curso Online Eu Progr{amo}
+# Progra{m}aria - Curso Online Eu Progr{amo}
 
 O site _Mulheres que fizeram história na tecnologia_ foi desenvolvido durante o curso online da programaria.
 
@@ -35,8 +35,8 @@ Para criá-lo utilizamos os seguintes conhecimentos, apresentados ao longo do cu
       - Funções no JavaScript<br>
 </details>
 
-###Mobile
+### Mobile
 ![Gif Mobile](/assets/mobile.gif)
 
-###Desktop
-![Gif Desktop](/assets/desktop.gif)
+### Desktop
+![Gif Desktop](/assets/desktop.gif) 
