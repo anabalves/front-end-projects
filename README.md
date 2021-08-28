@@ -11,10 +11,10 @@ Para criá-lo utilizei os seguintes conhecimentos, apresentados ao longo do tuto
 - Media Queries
 
 ### Layout
-![Layout](/assets/travel-agency-layout.png)
+![Layout](./.github/travel-agency-layout.png)
 
 ### Mobile
-![Gif Mobile](/assets/mobile.gif)
+![Gif Mobile](./.github/mobile.gif)
 
 ### Desktop
-![Gif Desktop](/assets/desktop.gif) 
+![Gif Desktop](./.github/desktop.gif) 
