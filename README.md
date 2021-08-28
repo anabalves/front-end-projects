@@ -35,8 +35,11 @@ Para criá-lo utilizei os seguintes conhecimentos, apresentados ao longo do curs
       - Funções no JavaScript<br>
 </details>
 
+### Layout
+![Layout](./.github/programaria-layout.png)
+
 ### Mobile
-![Gif Mobile](/assets/mobile.gif)
+![Gif Mobile](./.github/mobile.gif)
 
 ### Desktop
-![Gif Desktop](/assets/desktop.gif) 
+![Gif Desktop](./.github/desktop.gif) 
