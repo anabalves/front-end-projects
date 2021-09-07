@@ -1,4 +1,7 @@
 # OrionLamp
+![Layout Lamp On](./.github/layout.gif)
+
+---
 
 ## 🚀 Tecnologias
 
