@@ -1,5 +1,7 @@
 # Toggle Button | Dark and Light Mode
 
+O propósito desse projeto é aprender a aplicar dark/light mode em websites usando HTML, CSS e JavaScript.
+
 Para criar esse projeto utilizei conhecimentos em:
 
 - HTML
