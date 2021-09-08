@@ -1,4 +1,7 @@
 # OrionLamp
+
+O objetivo desse projeto é aprender a fazer o header de um website usando HTML, CSS e JavaScript. Além disso, usar um toggle button para criar um efeito de ligar e desligar uma lâmpada.
+
 ![Layout Lamp On](./.github/layout.gif)
 
 ---
