@@ -1,4 +1,4 @@
-# Analog Clock
+# 🕒 Analog Clock
 
 O propósito desse projeto é criar um relógio analógico com design neumórfico, e também com dark/light mode. 
 
