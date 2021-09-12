@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: #F0F0F3;
     font-family: 'Poppins', sans-serif;
     outline: none;
 }
@@ -17,7 +17,7 @@
 }
 
 .calculator {
-    background-color: aliceblue;
+    background-color: #F0F0F3;
     padding: 15px;
     border-radius: 30px;
     box-shadow: inset 5px 5px 12px #ffffff,
@@ -30,7 +30,7 @@ input {
     grid-column: span 4;
     height: 70px;
     width: 260px;
-    background-color: aliceblue;
+    background-color: #F0F0F3;
     box-shadow: inset -5px -5px 12px #ffffff,
                 inset 5px 5px 12px rgba(0, 0, 0, .16);
     border: none;
@@ -47,7 +47,7 @@ input {
 button {
     height: 48px;
     width: 48px;
-    background-color: aliceblue;
+    background-color: #F0F0F3;
     box-shadow: inset -5px -5px 12px #ffffff,
                 inset 5px 5px 12px rgba(0, 0, 0, .16);
     border: none;
@@ -59,7 +59,7 @@ button {
 .equal {
     width: 115px;
     border-radius: 40px;
-    background-color: aliceblue;
+    background-color: #F0F0F3;
     box-shadow: inset -5px -5px 12px #ffffff,
                 inset 5px 5px 12px rgba(0, 0, 0, .16);
 }
