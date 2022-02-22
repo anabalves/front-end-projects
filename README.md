@@ -1,3 +1,3 @@
-# HTML, CSS e JS projects
+# front-end projects
 
-Esse repositório é uma compilação dos meus projetos desenvolvidos apenas com HTML, CSS e JavaScript.
+Esse repositório é uma compilação dos meus projetos de front-end.
