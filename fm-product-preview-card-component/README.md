@@ -20,7 +20,7 @@ Your users should be able to:
 
 ##  Links
 
-[Solution URL](https://github.com/anabalves/front-end-projects/edit/main/fm-product-preview-card-component) 
+[Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-aCgwIdnVHM) 
 
 [Live Site URL](https://product-preview-card-component-anabalves.netlify.app/) 
 
