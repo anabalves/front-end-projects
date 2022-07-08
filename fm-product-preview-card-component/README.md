@@ -19,10 +19,12 @@ Your users should be able to:
 </p>
 
 ##  Links
-[Solution URL](https://www.frontendmentor.io) 
-[Live Site URL](https://www.frontendmentor.io) 
+[Solution URL](https://github.com/anabalves/front-end-projects/edit/main/fm-product-preview-card-component) 
+
+[Live Site URL](https://product-preview-card-component-anabalves.netlify.app/) 
 
 
 ##  Built with
 HTML5
+
 CSS3
