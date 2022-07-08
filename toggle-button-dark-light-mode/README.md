@@ -2,6 +2,8 @@
 
 O propósito desse projeto é aprender a aplicar dark/light mode em websites usando HTML, CSS e JavaScript.
 
+[Live Site URL](https://toggle-button-dark-light-mode-anabalves.netlify.app/) 
+
 Para criar esse projeto utilizei conhecimentos em:
 
 - HTML
