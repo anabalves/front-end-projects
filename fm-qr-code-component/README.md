@@ -15,7 +15,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ##  Links
 
-[Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-rxlQ6QuJ3D) 
+[Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-nIpjQjooMs) 
 
 [Live Site URL](https://qr-code-component-anabalves.netlify.app/) 
 
