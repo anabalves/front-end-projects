@@ -2,6 +2,8 @@
 
 O propósito desse projeto é criar um simples conversor temperatura. 
 
+[Live Site URL](https://temperature-converter-anabalves.netlify.app/) 
+
 ![Demonstração Desktop](./.github/desktop.gif)
 ![Demonstração Mobile](./.github/mobile.gif)
 
