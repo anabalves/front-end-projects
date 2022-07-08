@@ -22,7 +22,7 @@ Your users should be able to:
 
 ##  Links
 
-[Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component) 
+[Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-rxlQ6QuJ3D) 
 
 [Live Site URL](https://interactive-rating-component-anabalves.netlify.app/) 
 
