@@ -2,6 +2,8 @@
 
 O site _Mulheres que fizeram história na tecnologia_ foi desenvolvido durante o curso online da programaria.
 
+[Live Site URL](https://programaria-anabalves.netlify.app/) 
+
 Para criá-lo utilizei os seguintes conhecimentos, apresentados ao longo do curso:
 
 <details>

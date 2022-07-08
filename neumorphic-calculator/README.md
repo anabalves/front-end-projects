@@ -2,6 +2,8 @@
 
 O propósito desse projeto é criar uma simples calculadora com design neumórfico.
 
+[Live Site URL](https://neumorphic-calculator-anabalves.netlify.app/) 
+
 ![Demonstração Desktop](./.github/desktop.gif)
 ![Demonstração Mobile](./.github/mobile.gif)
 

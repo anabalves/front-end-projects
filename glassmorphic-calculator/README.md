@@ -2,6 +2,8 @@
 
 O propósito desse projeto é criar uma simples calculadora com design _"glassmórfico"_.
 
+[Live Site URL](https://glassmorphic-calculator-anabalves.netlify.app/) 
+
 ![Demonstração Desktop](./.github/desktop.gif)
 ![Demonstração Mobile](./.github/mobile.gif)
 

@@ -2,6 +2,8 @@
 
 O propósito desse projeto é criar um simples conversor de milhas para km e km para milhas. 
 
+[Live Site URL](https://velocity-converter-anabalves.netlify.app/) 
+
 ![Demonstração Desktop](./.github/desktop.gif)
 ![Demonstração Mobile](./.github/mobile.gif)
 
