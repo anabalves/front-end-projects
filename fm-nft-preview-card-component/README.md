@@ -20,7 +20,7 @@ Your users should be able to:
 
 ##  Links
 
-[Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-nIpjQjooMs) 
+[Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-T75MrD-7SC) 
 
 [Live Site URL](https://nft-preview-card-component-anabalves.netlify.app/) 
 
